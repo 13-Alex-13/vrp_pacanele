@@ -1,8 +1,8 @@
-Created Alex 13
+-- Created Alex 13
 ----------------
-Creat de Alex 13
+-- Creat de Alex 13
 ----------------
-Please, Leave these credits
+-- Please, Leave these credits
 -----------------------------
-Va rog, lasati aceste credite
+-- Va rog, lasati aceste credite
 -----------------------------
